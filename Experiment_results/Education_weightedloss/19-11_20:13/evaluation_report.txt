@@ -1,0 +1,10 @@
+===================
+No missing labels
+Hamming loss is:0.027 (+/-0.000)
+Zero-one loss is:1.000 (+/-0.000)
+Coverage error is:698.659 (+/-6.723)
+F1 is:0.246 (+/-0.004)
+Recall is:0.228 (+/-0.002)
+Precision is:0.268 (+/-0.007)
+Average Precision is:0.175 (+/-0.007)
+

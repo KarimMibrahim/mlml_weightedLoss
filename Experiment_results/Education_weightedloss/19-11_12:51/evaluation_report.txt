@@ -1,0 +1,31 @@
+===================
+No missing labels
+Hamming loss is:0.063 (+/-0.002)
+Zero-one loss is:0.868 (+/-0.012)
+Coverage error is:4.442 (+/-0.168)
+F1 is:0.449 (+/-0.016)
+Recall is:0.575 (+/-0.024)
+Precision is:0.368 (+/-0.013)
+Average Precision is:0.479 (+/-0.023)
+
+===================
+40% missing labels, no weighted loss
+Hamming loss is:0.043 (+/-0.001)
+Zero-one loss is:0.744 (+/-0.009)
+Coverage error is:4.609 (+/-0.115)
+F1 is:0.437 (+/-0.011)
+Recall is:0.376 (+/-0.014)
+Precision is:0.523 (+/-0.016)
+Average Precision is:0.451 (+/-0.020)
+
+===================
+Weighted loss with 40% missing
+Hamming loss is:0.046 (+/-0.002)
+Zero-one loss is:0.768 (+/-0.016)
+Coverage error is:4.587 (+/-0.291)
+F1 is:0.454 (+/-0.023)
+Recall is:0.436 (+/-0.030)
+Precision is:0.474 (+/-0.021)
+Average Precision is:0.469 (+/-0.035)
+
+
